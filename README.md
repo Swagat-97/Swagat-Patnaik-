@@ -33,7 +33,7 @@ web/ → HTML-based web projects
 
 Clone the repo:
 
-git clone https://github.com/Swagat-97/your-Swagat Patnaik.git
+git clone https://github.com/Swagat-97/your-Swagat-Patnaik.git
 
 📬 Contact
 📧 Email: swagatpatnaik15@gmail.com
